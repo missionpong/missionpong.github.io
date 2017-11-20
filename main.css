@@ -1,0 +1,26 @@
+#social-buttons button {
+	color: white;
+}
+.btn-twitter {
+	background-color: #55acee;
+	border-color: #55acee;
+}
+.btn-facebook {
+	background-color: #3b5998;
+	border-color: #3b5998;
+}
+.btn-pinterest {
+	background-color: #cb2027;
+	border-color: #cb2027;
+}
+.jumbotron {
+	min-height: 600px;
+	background-image: url('images/fruit-and-veg.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.mission {
+	background-color: rgba(32,35,41,0.9);
+	color: #dddddd;
+}
